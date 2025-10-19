@@ -1,8 +1,6 @@
 
 # TinyPal — Full Stack Founding Engineer Intern Assignment
 
-![TinyPal Logo](https://your-logo-url.com/logo.png) <!-- Optional -->
-
 ## Overview
 
 This repository contains my submission for the TinyPal Full Stack Founding Engineer Intern assignment. The project demonstrates a **full-stack mobile/web application** built using React Native, showcasing a functional and deployable app with core features.
