@@ -1,5 +1,5 @@
 
-# TinyPal — Full Stack Founding Engineer Intern Assignment
+# TinyPal — Full Stack Founding Engineer Intern Assignment 
 
 ## Overview
 
