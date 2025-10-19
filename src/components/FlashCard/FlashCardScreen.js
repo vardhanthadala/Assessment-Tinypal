@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { View, StyleSheet, TouchableOpacity, Text } from 'react-native';
 import Header from '../common/Header';
 
-const FlashCardScreen = ({ navigation }) => {
+const FlashCardScreen = ({ navigation }) => { 
   const [isFlipped, setIsFlipped] = useState(false);
 
   return (
